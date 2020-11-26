@@ -257,6 +257,12 @@ Frameworks that are smaller than ~5KB.
 
 ## Specialized
 
+- [**Primer**](https://primer.style/css) - Design, build, and create with GitHub’s design system  
+  ![](https://img.shields.io/github/stars/primer/css.svg?style=social&label=Star)
+  [Docs](https://primer.style/),
+  [Repo](https://github.com/primer/css)
+  | #CSS
+
 - [**Tailwind CSS**](https://tailwindcss.com) - Utility-first CSS framework for rapid UI development.  
   ![](https://img.shields.io/github/stars/tailwindcss/tailwindcss.svg?style=social&label=Star)
   [Docs](https://tailwindcss.com/docs/what-is-tailwind/),
